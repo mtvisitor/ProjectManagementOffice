@@ -6,7 +6,7 @@
 
 N/A
 
-幸福生活，快乐生活，每天都开心！
+幸福生活，快乐生活，每天都开心！  
 Happy for Life.
 
 ## 2. Dinner Party Voting
@@ -47,7 +47,7 @@ Taste:          8
 Aroma           8  
 Ease            6  
 -----------------  
-Summary:        37/50  
+Summary: 37/50  
 (B Level)  
 
 ## 3. Improments and Online Messages  
